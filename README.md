@@ -9,3 +9,5 @@ To run the applicaiton.
   - on the command line run
     - `npm install`
     - `npm start`
+
+[The original repo](https://github.com/udacity/reactnd-udacimeals-complete).
