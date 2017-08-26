@@ -57,7 +57,6 @@ const initialCalendarState = {
 
 function calendar(state = initialCalendarState, action) {
   const { day, recipe, meal } = action;
-  console.log(action);
   switch (action.type) {
     case ADD_RECIPE:
       return {
